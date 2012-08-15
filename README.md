@@ -1,5 +1,13 @@
 # DictShield
 
+This project is now called Structures and exists over here:
+[https://github.com/j2labs/structures])https://github.com/j2labs/structures)
+
+This code and documentation is here to preserve amusing history of this project.
+
+
+## Legacy Docs
+
 Aside from being a cheeky excuse to make people say things that sound sorta
 dirty, DictShield is a database-agnostic modeling system. It provides a way to
 model, validate and reshape data easily. All without requiring any particular

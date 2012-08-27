@@ -1,7 +1,7 @@
 # DictShield
 
 This project is now called Structures and exists over here:
-[https://github.com/j2labs/structures])https://github.com/j2labs/structures)
+[https://github.com/j2labs/structures](https://github.com/j2labs/structures)
 
 This code and documentation is here to preserve amusing history of this project.
 

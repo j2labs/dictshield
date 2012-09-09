@@ -1,7 +1,7 @@
 # DictShield
 
-This project is now called Structures and exists over here:
-[https://github.com/j2labs/structures](https://github.com/j2labs/structures)
+This project is now called Schematics and exists over here:
+[https://github.com/j2labs/schematics](https://github.com/j2labs/schematics)
 
 This code and documentation is here to preserve amusing history of this project.
 
